@@ -23,6 +23,7 @@ group :test do
   gem 'simplecov', '~> 0.10'
   gem 'concurrent-ruby', '~> 0.9'
   gem 'mocha', '~> 1.1'
+  gem 'nokogiri', '~> 1.6'
 end
 
 group :integration do
